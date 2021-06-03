@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "MyFiori",
+    "newDir": true,
+    "projectNamespace": "manoj.app",
+    "projectNamespaceModule": "manoj/app"
+  }
+}
